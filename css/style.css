@@ -28,3 +28,36 @@ body {
 }
 
 /* Banner */
+
+/*container*/
+.container {
+    background-color: white;
+    margin-top: 40px;
+    width: 800px;
+    margin: 40px auto 0;
+    padding-left: 50px;
+    color: #434851;
+}
+/*container*/
+
+
+.checked{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border: solid 1px #65d5c2;
+    text-align: center;
+    border-radius: 50%;
+    color: #65d5c2;
+}
+
+
+.not-check{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border: solid 1px #ff1010;
+    text-align: center;
+    border-radius: 50%;
+    color: #ff1010;
+}
