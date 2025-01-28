@@ -81,6 +81,7 @@ body {
     display: inline-block;
     width: 15px;
     height: 15px;
+    line-height: 15px;
     border: solid 1px #65d5c2;
     text-align: center;
     border-radius: 50%;
@@ -92,6 +93,7 @@ body {
     display: inline-block;
     width: 15px;
     height: 15px;
+    line-height: 15px;
     border: solid 1px #ff1010;
     text-align: center;
     border-radius: 50%;
