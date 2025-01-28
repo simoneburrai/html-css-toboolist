@@ -31,7 +31,6 @@ body {
 
 /*container*/
 .container {
-    background-color: white;
     margin-top: 40px;
     width: 800px;
     margin: 40px auto 0;
@@ -40,7 +39,34 @@ body {
 }
 /*container*/
 
+/*adding section */
 
+.adding-bar {
+    padding:20px;
+    margin-bottom: 5px;
+    background-color: white;
+}
+.case1 {
+    background-color: #14aaf5;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.case2 {
+        color: #d1d7db;
+        border: solid 1px #d1d7db;
+        border-radius: 5px;
+        padding: 7px;
+    }
+
+/*     /adding section */
+
+/* tasks */
+
+.tasks {
+    background-color: white;
+}
 .checked{
     display: inline-block;
     width: 15px;
@@ -51,7 +77,6 @@ body {
     color: #65d5c2;
 }
 
-
 .not-check{
     display: inline-block;
     width: 15px;
@@ -61,3 +86,6 @@ body {
     border-radius: 50%;
     color: #ff1010;
 }
+
+
+/*       /tasks */
