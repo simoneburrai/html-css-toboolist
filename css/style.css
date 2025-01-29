@@ -18,12 +18,13 @@ body {
 .logo{
     margin-top: 12px;
     padding-left: 30px;
+    vertical-align: middle;
 }
 
 .logo-name {
-    display: inline-block;
     font-size: 40px;
     font-weight: 900;
+    vertical-align: middle;
 }
 
 /* Banner */
